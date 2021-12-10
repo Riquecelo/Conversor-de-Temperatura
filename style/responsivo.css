@@ -1,0 +1,111 @@
+
+@media (max-width: 1020px) {
+    
+    section{
+        width: 70%;
+    }
+    .resultado p{
+        width: 75%;
+    }
+    section form{
+        width: 60%;
+    }
+    section .resultado{
+        width: 60%;
+    }
+}
+
+@media (max-width: 768px) {
+    header h1{
+        width: 100%;
+        font-size: 25px;
+    }
+    section{
+        width: 70%;
+    }
+    .resultado p{
+        width: 80%;
+    }
+    section form{
+        width: 80%;
+    }
+    section .resultado{
+        width: 80%;
+    }
+}
+
+@media (max-width: 600px) {
+    header h1{
+        width: 100%;
+        font-size: 20px;
+    }
+    section{
+        width: 85%;
+    }
+    .resultado p{
+        width: 80%;
+    }
+    section form{
+       
+        width: 90%;
+    }
+    section .resultado{
+        width: 90%;
+    }
+    lottie-player{
+       
+        left: -10px;
+    }
+    footer div{
+        font-size: 10px;
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 425px) {
+    header h1{
+        width: 100%;
+        font-size: 20px;
+    }
+    section{
+        width: 90%;
+    }
+    .resultado p{
+        width: 80%;
+    }
+    section form{
+        width: 95%;
+    }
+    section .resultado{
+        width: 95%;
+    }
+    lottie-player{
+        left: -20px;
+    }
+    footer div{
+        font-size: 10px;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 320px) {
+    section{
+        width: 90%;
+    }
+    .resultado p{
+        width: 80%;
+    }
+    section form{
+        width: 95%;
+    }
+    section .resultado{
+        width: 95%;
+    }
+    lottie-player{
+        left: -20px;
+    }
+    footer div{
+        font-size: 10px;
+        margin-top: 10px;
+    }
+}

@@ -16,7 +16,7 @@ botaoConversor.addEventListener('click', function(e){
         if ((fahre > 68) & (fahre < 84.2)) {
             
             fundo.style.cssText=`
-            background-image: url(img/ambiente.webp);
+            background-image: url(img/ambiente-min.jpg);
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover`
@@ -24,7 +24,7 @@ botaoConversor.addEventListener('click', function(e){
         }else if (fahre >= 84.2) {
             
             fundo.style.cssText=`
-            background-image: url(img/calor.webp);
+            background-image: url(img/calor-min.jpg);
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover`
@@ -32,7 +32,7 @@ botaoConversor.addEventListener('click', function(e){
         }else{
             
             fundo.style.cssText=`
-            background-image: url(img/frio.webp);
+            background-image: url(img/frio-min.jpg);
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover`
