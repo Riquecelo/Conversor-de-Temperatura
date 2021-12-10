@@ -1,3 +1,5 @@
+<img alt="Github License" src="https://img.shields.io/github/license/Riquecelo/Conversor-de-Temperatura" /> <img alt="" src="https://img.shields.io/github/repo-size/Riquecelo/Conversor-de-Temperatura" />  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Riquecelo/Conversor-de-Temperatura" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Riquecelo/Conversor-de-Temperatura" /> 
+
 # Conversor-de-Temperatura
 Projeto Conversor de Temperatura de Celsius para Fahrenheit
 
@@ -15,8 +17,7 @@ Treinar conhecimentos adquiridos em:<br>
  |CSS|responsividade com media query|
  <br>
  
+ ![](https://github.com/Riquecelo/Conversor-de-Temperatura/blob/main/img/CapturaDeTelaConversor.png)
+ 
  ### Acesse o conversor clicando no botão abaixo
  [![](https://img.shields.io/badge/-CONVERSOR%20%F0%9F%94%84-blue?style=for-the-badge)](https://riquecelo.github.io/Conversor-de-Temperatura/)
- 
- 
- ![](https://github.com/Riquecelo/Conversor-de-Temperatura/blob/main/img/CapturaDeTelaConversor.png)
